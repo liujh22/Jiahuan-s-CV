@@ -9,5 +9,5 @@ This repository contains my academic CV, written in LaTeX and compiled using [Ov
 - `settings.sty`: Custom LaTeX style settings
 
 ## 📄 CV Preview
-<iframe src="https://raw.githack.com/liujh22/Jiahuan-s-CV/main/Jiahuan_s_CV.pdf" width="100%" height="600px">
-</iframe>
+
+👉 [Click here to view embedded CV](https://liujh22.github.io/Jiahuan-s-CV/)
