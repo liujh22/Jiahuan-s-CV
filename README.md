@@ -8,5 +8,6 @@ This repository contains my academic CV, written in LaTeX and compiled using [Ov
 - `own-bib.bib`: Bibliography file
 - `settings.sty`: Custom LaTeX style settings
 
-## Preview
-Click [here](https://github.com/liujh22/your-repo-name/releases/latest/download/cv.pdf) to download the latest compiled PDF.
+## 📄 CV Preview
+<iframe src="https://raw.githack.com/liujh22/Jiahuan-s-CV/main/Jiahuan_s_CV.pdf" width="100%" height="600px">
+</iframe>
