@@ -10,4 +10,4 @@ This repository contains my academic CV, written in LaTeX and compiled using [Ov
 
 ## 📄 CV Preview
 
-👉 [Click here to view embedded CV](https://liujh22.github.io/Jiahuan-s-CV/)
+[![Preview](preview.jpg)](https://raw.githack.com/liujh22/Jiahuan-s-CV/main/Jiahuan_s_CV.pdf)
